@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Git\\WFConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8859EC-8E4D-44DD-A6B7-FE36174C7970}|WFConsole\\WFConsole.csproj|f:\\git\\wfconsole\\wfconsole\\grid\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8859EC-8E4D-44DD-A6B7-FE36174C7970}|WFConsole\\WFConsole.csproj|solutionrelative:wfconsole\\grid\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8859EC-8E4D-44DD-A6B7-FE36174C7970}|WFConsole\\WFConsole.csproj|f:\\git\\wfconsole\\wfconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8859EC-8E4D-44DD-A6B7-FE36174C7970}|WFConsole\\WFConsole.csproj|solutionrelative:wfconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8859EC-8E4D-44DD-A6B7-FE36174C7970}|WFConsole\\WFConsole.csproj|f:\\git\\wfconsole\\wfconsole\\utils\\neighborhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8859EC-8E4D-44DD-A6B7-FE36174C7970}|WFConsole\\WFConsole.csproj|solutionrelative:wfconsole\\utils\\neighborhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8859EC-8E4D-44DD-A6B7-FE36174C7970}|WFConsole\\WFConsole.csproj|f:\\git\\wfconsole\\wfconsole\\grid\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8859EC-8E4D-44DD-A6B7-FE36174C7970}|WFConsole\\WFConsole.csproj|solutionrelative:wfconsole\\grid\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8859EC-8E4D-44DD-A6B7-FE36174C7970}|WFConsole\\WFConsole.csproj|f:\\git\\wfconsole\\wfconsole\\rules\\adjacencyrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8859EC-8E4D-44DD-A6B7-FE36174C7970}|WFConsole\\WFConsole.csproj|solutionrelative:wfconsole\\rules\\adjacencyrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NeighborHelper.cs",
+              "DocumentMoniker": "F:\\Git\\WFConsole\\WFConsole\\Utils\\NeighborHelper.cs",
+              "RelativeDocumentMoniker": "WFConsole\\Utils\\NeighborHelper.cs",
+              "ToolTip": "F:\\Git\\WFConsole\\WFConsole\\Utils\\NeighborHelper.cs",
+              "RelativeToolTip": "WFConsole\\Utils\\NeighborHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:50:10.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "F:\\Git\\WFConsole\\WFConsole\\Grid\\GridManager.cs",
+              "RelativeDocumentMoniker": "WFConsole\\Grid\\GridManager.cs",
+              "ToolTip": "F:\\Git\\WFConsole\\WFConsole\\Grid\\GridManager.cs",
+              "RelativeToolTip": "WFConsole\\Grid\\GridManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:42:00.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "F:\\Git\\WFConsole\\WFConsole\\Grid\\Cell.cs",
+              "RelativeDocumentMoniker": "WFConsole\\Grid\\Cell.cs",
+              "ToolTip": "F:\\Git\\WFConsole\\WFConsole\\Grid\\Cell.cs",
+              "RelativeToolTip": "WFConsole\\Grid\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:41:55.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdjacencyRules.cs",
+              "DocumentMoniker": "F:\\Git\\WFConsole\\WFConsole\\Rules\\AdjacencyRules.cs",
+              "RelativeDocumentMoniker": "WFConsole\\Rules\\AdjacencyRules.cs",
+              "ToolTip": "F:\\Git\\WFConsole\\WFConsole\\Rules\\AdjacencyRules.cs",
+              "RelativeToolTip": "WFConsole\\Rules\\AdjacencyRules.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:19:35.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Git\\WFConsole\\WFConsole\\Program.cs",
+              "RelativeDocumentMoniker": "WFConsole\\Program.cs",
+              "ToolTip": "F:\\Git\\WFConsole\\WFConsole\\Program.cs",
+              "RelativeToolTip": "WFConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:19:32.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

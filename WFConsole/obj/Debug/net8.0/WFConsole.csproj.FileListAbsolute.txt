@@ -1,0 +1,14 @@
+F:\Git\WFConsole\WFConsole\bin\Debug\net8.0\WFConsole.exe
+F:\Git\WFConsole\WFConsole\bin\Debug\net8.0\WFConsole.deps.json
+F:\Git\WFConsole\WFConsole\bin\Debug\net8.0\WFConsole.runtimeconfig.json
+F:\Git\WFConsole\WFConsole\bin\Debug\net8.0\WFConsole.dll
+F:\Git\WFConsole\WFConsole\bin\Debug\net8.0\WFConsole.pdb
+F:\Git\WFConsole\WFConsole\obj\Debug\net8.0\WFConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\WFConsole\WFConsole\obj\Debug\net8.0\WFConsole.AssemblyInfoInputs.cache
+F:\Git\WFConsole\WFConsole\obj\Debug\net8.0\WFConsole.AssemblyInfo.cs
+F:\Git\WFConsole\WFConsole\obj\Debug\net8.0\WFConsole.csproj.CoreCompileInputs.cache
+F:\Git\WFConsole\WFConsole\obj\Debug\net8.0\WFConsole.dll
+F:\Git\WFConsole\WFConsole\obj\Debug\net8.0\refint\WFConsole.dll
+F:\Git\WFConsole\WFConsole\obj\Debug\net8.0\WFConsole.pdb
+F:\Git\WFConsole\WFConsole\obj\Debug\net8.0\WFConsole.genruntimeconfig.cache
+F:\Git\WFConsole\WFConsole\obj\Debug\net8.0\ref\WFConsole.dll
